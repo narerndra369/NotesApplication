@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.env
+*.ipynb
+*.dat
+*.ini
+AppData/
+Documents/
+Downloads/
